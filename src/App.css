@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.row{
+  padding: 5rem 0 0.5rem 0;
+}
+
+.container{
+  margin-top: 6rem;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
